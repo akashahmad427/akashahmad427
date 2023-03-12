@@ -1,5 +1,3 @@
-[![MasterHead](https://acropolium.com/img/articles/find-backend-developers/img01.jpg)](https://www.acropolium.com)
-
 <h1 align="center">Hi 👋, I'm Akash Ahmad</h1>
 <h3 align="center">A passionate backend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmMyOTdlOGM2YzgzMmMyMDdkNWMzMGU2YTA0YWI5YjkwODI5MzU2MCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif">
