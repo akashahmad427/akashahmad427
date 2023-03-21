@@ -12,7 +12,8 @@
 
 - ⚡ Fun fact **I am funny**
 
-
+<h3 align="left">Connect with me:</h3>
+<a href="mailto:nameakash647@gmail.com"><img src="https://img.shields.io/badge/-nameakash647@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <p align="left">
 </p>
 
