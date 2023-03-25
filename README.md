@@ -14,7 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="mailto:nameakash647@gmail.com"><img src="https://img.shields.io/badge/-nameakash647@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/akash-ahmad-0b446a26b/"><img src="https://img.shields.io/badge/-Akash%20Ahmad-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
